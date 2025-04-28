@@ -1,0 +1,12 @@
+{
+  "name": "jest-queue-testing",
+  "version": "1.0.0",
+  "description": "Jest testing assignment for Queue implementation",
+  "main": "src/Queue.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
